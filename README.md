@@ -1,4 +1,5 @@
 ## Hi there 👋
+This is Shell, an INTP x 8w7
 
 <!--
 **Shell-human/Shell-human** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
